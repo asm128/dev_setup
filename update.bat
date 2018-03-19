@@ -16,6 +16,9 @@
 @cd gpftw_professional		
 @git pull		
 @cd ..
+@cd gpftw_expert
+@git pull		
+@cd ..
 @cd x64.Release				
 @git pull		
 @cd ..
