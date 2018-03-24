@@ -19,7 +19,7 @@
 @cd gpftw_expert
 @git pull		
 @cd ..
-@cd candy
+@cd lilia
 @git pull		
 @cd ..
 @cd x64.Release				

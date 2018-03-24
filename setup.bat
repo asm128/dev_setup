@@ -10,7 +10,7 @@
 @echo    // - https://github.com/asm128/gpftw_expert                          //
 @echo    //                                                                   //
 @echo    // Framework used by gpftw_expert and following tutorials:           //
-@echo    // - https://github.com/asm128/candy                                 //
+@echo    // - https://github.com/asm128/lilia                                 //
 @echo    //                                                                   //
 @echo    ///////////////////////////////////////////////////////////////////////
 
@@ -24,7 +24,7 @@ git clone https://github.com/asm128/gpftw
 git clone https://github.com/asm128/gpftw_advanced
 git clone https://github.com/asm128/gpftw_professional
 git clone https://github.com/asm128/gpftw_expert
-git clone https://github.com/asm128/candy
+git clone https://github.com/asm128/lilia
 git clone https://github.com/asm128/x64.Release
 
 md x64.Debug
