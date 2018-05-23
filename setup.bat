@@ -8,9 +8,13 @@
 @echo    // - https://github.com/asm128/gpftw_advanced                        //
 @echo    // - https://github.com/asm128/gpftw_professional                    //
 @echo    // - https://github.com/asm128/gpftw_expert                          //
+@echo    // - https://github.com/asm128/gpftw_master                          //
 @echo    //                                                                   //
-@echo    // Framework used by gpftw_expert and following tutorials:           //
+@echo    // Framework used by gpftw_expert:                                   //
 @echo    // - https://github.com/asm128/lilia                                 //
+@echo    //                                                                   //
+@echo    // Framework used by gpftw_master:                                   //
+@echo    // - https://github.com/asm128/gpk                                   //
 @echo    //                                                                   //
 @echo    ///////////////////////////////////////////////////////////////////////
 
@@ -24,7 +28,9 @@ git clone https://github.com/asm128/gpftw
 git clone https://github.com/asm128/gpftw_advanced
 git clone https://github.com/asm128/gpftw_professional
 git clone https://github.com/asm128/gpftw_expert
+git clone https://github.com/asm128/gpftw_master
 git clone https://github.com/asm128/lilia
+git clone https://github.com/asm128/gpk
 git clone https://github.com/asm128/x64.Release
 
 md x64.Debug

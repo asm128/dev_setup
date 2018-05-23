@@ -19,7 +19,13 @@
 @cd gpftw_expert
 @git pull		
 @cd ..
+@cd gpftw_master
+@git pull		
+@cd ..
 @cd lilia
+@git pull		
+@cd ..
+@cd gpk
 @git pull		
 @cd ..
 @cd x64.Release				
@@ -27,5 +33,8 @@
 @cd ..
 
 copy .\x64.Release\*.bmp .\x64.Debug
+copy .\x64.Release\*.bmp .\x64.Debug
 copy .\x64.Release\*.bmp .\Win32.Debug
-copy .\x64.Release\*.bmp .\Win32.Release
+copy .\x64.Release\*.bmg .\Win32.Release
+copy .\x64.Release\*.bmg .\Win32.Debug
+copy .\x64.Release\*.bmg .\Win32.Release
