@@ -28,7 +28,13 @@
 @cd gpk
 @git pull		
 @cd ..
+@cd gpk_data
+@git pull		
+@cd ..
 @cd x64.Release				
+@git pull		
+@cd ..
+@cd zlib
 @git pull		
 @cd ..
 
