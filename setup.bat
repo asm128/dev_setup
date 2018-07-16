@@ -16,6 +16,13 @@
 @echo    // Framework used by gpftw_master:                                   //
 @echo    // - https://github.com/asm128/gpk                                   //
 @echo    //                                                                   //
+@echo    // Dependencies required by gpk:                                     //
+@echo    // - https://github.com/asm128/zlib                                  //
+@echo    //                                                                   //
+@echo    // New client-server architecture prototype based on gpk:            //
+@echo    // - https://github.com/gontrill/DoP                                 //
+@echo    //                                                                   //
+@echo    //                                                                   //
 @echo    ///////////////////////////////////////////////////////////////////////
 
 md asm128
@@ -34,6 +41,7 @@ git clone https://github.com/asm128/gpk
 git clone https://github.com/asm128/gpk_data
 git clone https://github.com/asm128/x64.Release
 git clone https://github.com/asm128/zlib
+git clone https://github.com/gontrill/DoP
 
 md x64.Debug
 md Win32.Debug

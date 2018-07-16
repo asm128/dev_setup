@@ -37,6 +37,9 @@
 @cd zlib
 @git pull		
 @cd ..
+@cd DoP
+@git pull		
+@cd ..
 
 copy .\x64.Release\*.bmp .\x64.Debug
 copy .\x64.Release\*.bmp .\x64.Debug
