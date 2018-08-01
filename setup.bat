@@ -38,6 +38,7 @@ git clone https://github.com/asm128/gpftw_expert
 git clone https://github.com/asm128/gpftw_master
 git clone https://github.com/asm128/lilia
 git clone https://github.com/asm128/gpk
+git clone https://github.com/asm128/gpk_android
 git clone https://github.com/asm128/gpk_data
 git clone https://github.com/asm128/x64.Release
 git clone https://github.com/asm128/zlib
