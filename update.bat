@@ -28,6 +28,9 @@
 @cd gpk
 @git pull		
 @cd ..
+@cd gpk_android
+@git pull		
+@cd ..
 @cd gpk_data
 @git pull		
 @cd ..
