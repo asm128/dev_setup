@@ -34,9 +34,6 @@
 @cd gpk_data
 @git pull		
 @cd ..
-@cd x64.Release				
-@git pull		
-@cd ..
 @cd zlib
 @git pull		
 @cd ..
@@ -44,9 +41,3 @@
 @git pull		
 @cd ..
 
-copy .\x64.Release\*.bmp .\x64.Debug
-copy .\x64.Release\*.bmp .\x64.Debug
-copy .\x64.Release\*.bmp .\Win32.Debug
-copy .\x64.Release\*.bmg .\Win32.Release
-copy .\x64.Release\*.bmg .\Win32.Debug
-copy .\x64.Release\*.bmg .\Win32.Release

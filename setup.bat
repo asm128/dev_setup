@@ -28,6 +28,7 @@
 md asm128
 cd asm128
 
+git clone https://github.com/asm128/zlib
 git clone https://github.com/asm128/nwol
 git clone https://github.com/asm128/nwol_samples
 git clone https://github.com/asm128/KitsuRPG
@@ -40,13 +41,4 @@ git clone https://github.com/asm128/lilia
 git clone https://github.com/asm128/gpk
 git clone https://github.com/asm128/gpk_android
 git clone https://github.com/asm128/gpk_data
-git clone https://github.com/asm128/x64.Release
-git clone https://github.com/asm128/zlib
 git clone https://github.com/gontrill/DoP
-
-md x64.Debug
-md Win32.Debug
-md Win32.Release
-copy .\x64.Release\*.bmp .\x64.Debug
-copy .\x64.Release\*.bmp .\Win32.Debug
-copy .\x64.Release\*.bmp .\Win32.Release
