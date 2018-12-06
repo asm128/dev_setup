@@ -41,4 +41,6 @@ git clone https://github.com/asm128/lilia
 git clone https://github.com/asm128/gpk
 git clone https://github.com/asm128/gpk_android
 git clone https://github.com/asm128/gpk_data
-git clone https://github.com/gontrill/DoP
+git clone https://github.com/asm128/dwh
+git clone https://github.com/asm128/princess
+
