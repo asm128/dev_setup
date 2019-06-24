@@ -1,2 +1,2 @@
 # dev_setup
-Files for setting up the reposiories and assets folders.
+Files for setting up the repositories and assets folders.
