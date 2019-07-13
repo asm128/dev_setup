@@ -28,6 +28,12 @@
 @cd gpk
 @git pull		
 @cd ..
+@cd gpk_samples
+@git pull		
+@cd ..
+@cd glide
+@git pull		
+@cd ..
 @cd gpk_android
 @git pull		
 @cd ..
@@ -37,7 +43,3 @@
 @cd zlib
 @git pull		
 @cd ..
-@cd DoP
-@git pull		
-@cd ..
-
