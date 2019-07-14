@@ -41,6 +41,7 @@ git clone https://github.com/asm128/lilia
 git clone https://github.com/asm128/gpk
 git clone https://github.com/asm128/gpk_samples
 git clone https://github.com/asm128/gpk_data
+git clone https://github.com/asm128/blade
 git clone https://github.com/asm128/glide
 git clone https://github.com/asm128/gpk_android
 git clone https://github.com/asm128/dwh
