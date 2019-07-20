@@ -33,6 +33,9 @@
 @cd gpk_data
 @git pull
 @cd ..
+@cd blitter
+@git pull
+@cd ..
 @cd blade
 @git pull
 @cd ..
