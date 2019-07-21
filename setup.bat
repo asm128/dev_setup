@@ -48,3 +48,5 @@ git clone https://github.com/asm128/gpk_android
 git clone https://github.com/asm128/dwh
 git clone https://github.com/asm128/princess
 
+cd gpk_data\blitter_db
+all.bat
