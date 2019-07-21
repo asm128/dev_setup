@@ -5,6 +5,7 @@ git clone https://github.com/asm128/gpk
 git clone https://github.com/asm128/gpk_data
 git clone https://github.com/asm128/zlib
 git clone https://github.com/asm128/blitter
+git clone https://github.com/asm128/blitdb
 
 @cd gpk			
 git pull 
@@ -22,5 +23,9 @@ cd ..
 git pull 
 cd ..
 
-cd gpk_data\blitter_db
+@cd blitdb
+git pull 
+cd ..
+
+cd blitdb
 all.bat

@@ -41,13 +41,10 @@ git clone https://github.com/asm128/lilia
 git clone https://github.com/asm128/gpk
 git clone https://github.com/asm128/gpk_samples
 git clone https://github.com/asm128/gpk_data
+git clone https://github.com/asm128/blitdb
 git clone https://github.com/asm128/blitter
 git clone https://github.com/asm128/bigbro
-git clone https://github.com/asm128/blade
 git clone https://github.com/asm128/glide
-git clone https://github.com/asm128/gpk_android
-git clone https://github.com/asm128/dwh
-git clone https://github.com/asm128/princess
 
-cd gpk_data\blitter_db
+cd blitdb
 all.bat
