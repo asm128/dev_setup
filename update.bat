@@ -54,6 +54,10 @@ cd blitter
 git pull 
 cd ..
 
+cd bigbro
+git pull 
+cd ..
+
 cd blade				
 git pull 
 cd ..
