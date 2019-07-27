@@ -41,6 +41,7 @@ git clone https://github.com/asm128/gpk_samples
 git clone https://github.com/asm128/gpk_data
 git clone https://github.com/asm128/blitdb
 git clone https://github.com/asm128/blitter
+git clone https://github.com/asm128/battleground
 
 cd blitdb
 all.bat
