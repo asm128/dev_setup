@@ -41,5 +41,5 @@ REM git add %%i
 
 REM git commit -m "Updated submodules to latest heads."
 REM git push
-cd blitdb
-all.bat
+REM cd blitdb
+REM all.bat
