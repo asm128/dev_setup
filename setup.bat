@@ -28,18 +28,11 @@ md asm128
 cd asm128
 
 REM Array of repositories
-set "gpk_games_repos=battleground blitdb blitter ced ced_data gpftw gpftw_advanced gpftw_expert gpftw_master gpftw_professional gpk gpk_data gpk_samples kitsurpg lilia neutralizer nwol nwol_samples llc llt zlib"
+set "gpk_games_repos=battleground blitdb blitter ced ced_data demo gpftw gpftw_advanced gpftw_expert gpftw_master gpftw_professional gpk gpk_data gpk_samples kitsurpg lilia llc llt neutralizer nwol nwol_samples zlib"
 
 REM Loop through each repository
 for %%i in (%gpk_games_repos%) do (
-	cd %%i
-	git checkout master
-	git pull
-	cd ..
-REM git add %%i
+	git clone https://github.com/asm128/%%i 
 )
-
-REM git commit -m "Updated submodules to latest heads."
-REM git push
 REM cd blitdb
 REM all.bat
